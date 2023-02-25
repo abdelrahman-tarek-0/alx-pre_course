@@ -1,1 +1,1 @@
-this's for alx task for git and GitHub
+this's for alx task for Git and GitHub
